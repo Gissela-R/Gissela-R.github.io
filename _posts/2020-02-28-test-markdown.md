@@ -22,8 +22,8 @@ Les voy a presentar  mis gustos
 ![Crepe](https://img.goraymi.com/2020/01/22/94a299c7688bcb364b0c21be73fea81c_lg.jpg)
 
 ## MIS LUGARES FAVORITOS :
-Baños de Agua Santa
-Loja
-Quito
-Macas
+Baños de Agua Santa,
+Loja,
+Quito,
+Macas,
 
