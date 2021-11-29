@@ -13,9 +13,9 @@ Mi nombre es Gissela Alexandra Ramos Yumisaca naci un dos  de Febrero de 1999  t
 Tambien tengo una mascota que se llama Chinkis, mis cantantes favoritos son cnco , reik, . 
  
  
- Mis estudios:
- Jardin : Luis Alberto Falconi 
-Primaria:Juan Bernardo de Leon
-Secundaria: Amelia Gallegos Diaz
-Universidad : UNACH (Universidad Nacional de Chimborazo)
-Titulo obtenido en la secundaria: Bachillerato Unificado
+## Mis estudios:
+ -Jardin : Luis Alberto Falconi 
+- Primaria:Juan Bernardo de Leon
+- Secundaria: Amelia Gallegos Diaz
+- Universidad : UNACH (Universidad Nacional de Chimborazo)
+- Titulo obtenido en la secundaria: Bachillerato Unificado
