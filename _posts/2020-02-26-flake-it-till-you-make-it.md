@@ -14,8 +14,8 @@ Tambien tengo una mascota que se llama Chinkis, mis cantantes favoritos son cnco
  
  
 ## Mis estudios:
- -Jardin : Luis Alberto Falconi 
+ - Jardín : Luis Alberto Falconi 
 - Primaria:Juan Bernardo de Leon
 - Secundaria: Amelia Gallegos Diaz
 - Universidad : UNACH (Universidad Nacional de Chimborazo)
-- Titulo obtenido en la secundaria: Bachillerato Unificado
+- Título obtenido en la secundaria: Bachillerato Unificado
