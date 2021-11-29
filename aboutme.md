@@ -13,4 +13,4 @@ Quieres saber más?
 
 ### Mi historia
 
-Les presento partes de mi vida [mi facebook](https://web.facebook.com/) espero responder **todas** sus preguntas.
+Les presento partes de mi vida [mi facebook](https://www.facebook.com/profile.php?id=100011163075141) espero responder **todas** sus preguntas.
